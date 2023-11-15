@@ -5,7 +5,7 @@ const char = [
       dateAvailable: "6/18/22 - 7/2/22",
       agency: "COSMIC PRODUCTION",
       units: "Valkyrie",
-      img: "./public/mika.jpg"
+      img: "./mika.jpg"
     },
     {
       charName: "Tatsumi Kazehaya",
@@ -13,7 +13,7 @@ const char = [
       dateAvailable: "7/2/22 - 7/17/22",
       agency: "STARMAKER PRODUCTION",
       units: "ALKALOID",
-      img: "./public/tatsumi.jpg"
+      img: "./tatsumi.jpg"
     },
     {
       charName: "Ibara Saegusa",
@@ -21,7 +21,7 @@ const char = [
       dateAvailable: "7/17/22 - 8/1/22",
       agency: "COSMIC PRODUCTION",
       units: "Eden, Adam",
-      img: "./public/ibara.jpg"
+      img: "./ibara.jpg"
     },
     {
       charName: "Koga Ogami",
@@ -29,7 +29,7 @@ const char = [
       dateAvailable: "8/1/22 - 8/15/22",
       agency: "Rhythm Link",
       units: "UNDEAD",
-      img: "./public/koga.jpg"
+      img: "./koga.jpg"
     },
     {
       charName: "Izumi Sena",
@@ -37,7 +37,7 @@ const char = [
       dateAvailable: "8/15/22 - 8/29/22",
       agency: "Rhythm Link",
       units: "Knights",
-      img: "./public/izumi.jpg"
+      img: "./izumi.jpg"
     },
     {
       charName: "Tori Himemiya",
@@ -45,7 +45,7 @@ const char = [
       dateAvailable: "8/29/22 - 9/12/22",
       agency: "STARMAKER PRODUCTION",
       units: "fine",
-      img: "./public/tori.jpg"
+      img: "./tori.jpg"
     },
     {
       charName: "Mao Isara",
@@ -53,7 +53,7 @@ const char = [
       dateAvailable: "9/12/22 - 9/26/22",
       agency: "STARMAKER PRODUCTION",
       units: "Trickstar",
-      img: "./public/mao.jpg"
+      img: "./mao.jpg"
     },
     {
       charName: "Hokuto Hidaka",
@@ -61,7 +61,7 @@ const char = [
       dateAvailable: "9/26/22 - 10/10/22",
       agency: "STARMAKER PRODUCTION",
       units: "Trickstar",
-      img: "./public/hokuto.jpg"
+      img: "./hokuto.jpg"
     },
     {
       charName: "Mitsuru Tenma",
@@ -69,7 +69,7 @@ const char = [
       dateAvailable: "10/10/22 - 10/24/22",
       agency: "Rhythm Link",
       units: "Ra*bits",
-      img: "./public/mitsuru.jpg"
+      img: "./mitsuru.jpg"
     },
     {
       charName: "HiMERU",
@@ -77,7 +77,7 @@ const char = [
       dateAvailable: "10/24/22 - 11/6/22",
       agency: "COSMIC PRODUCTION",
       units: "Crazy:B",
-      img: "./public/himeru.jpg"
+      img: "./himeru.jpg"
     },
     {
       charName: "Souma Kanzaki",
@@ -85,7 +85,7 @@ const char = [
       dateAvailable: "11/6/22 - 11/21/22",
       agency: "Rhythm Link",
       units: "AKATSUKI",
-      img: "./public/souma.jpg"
+      img: "./souma.jpg"
     },
     {
       charName: "Shinobu Sengoku",
@@ -93,7 +93,7 @@ const char = [
       dateAvailable: "11/21/22 - 12/5/22",
       agency: "STARMAKER PRODUCTION",
       units: "RYUSEITAI",
-      img: "./public/shinobu.jpg"
+      img: "./shinobu.jpg"
     },
     {
       charName: "Arashi Narukami",
@@ -101,7 +101,7 @@ const char = [
       dateAvailable: "12/5/22 - 12/19/22",
       agency: "NEW DIMENSION",
       units: "Knights",
-      img: "./public/arashi.jpg"
+      img: "./arashi.jpg"
     },
     {
       charName: "Tomoya Mashiro",
@@ -109,7 +109,7 @@ const char = [
       dateAvailable: "12/19/22 - 1/2/23",
       agency: "Rhythm Link",
       units: "Ra*bits",
-      img: "./public/tomoya.jpg"
+      img: "./tomoya.jpg"
     },
     {
       charName: "Tsukasa Suou",
@@ -117,7 +117,7 @@ const char = [
       dateAvailable: "1/2/23 - 1/16/23",
       agency: "NEW DIMENSION",
       units: "Knights",
-      img: "./public/tsukasa.jpg"
+      img: "./tsukasa.jpg"
     },
     {
       charName: "Wataru Hibiki",
@@ -125,7 +125,7 @@ const char = [
       dateAvailable: "1/16/23 - 1/30/23",
       agency: "STARMAKER PRODUCTION",
       units: "fine",
-      img: "./public/wataru.jpg"
+      img: "./wataru.jpg"
     },
     {
       charName: "Shu Itsuki",
@@ -133,7 +133,7 @@ const char = [
       dateAvailable: "1/30/23 - 2/13/23",
       agency: "COSMIC PRODUCTION",
       units: "Valkyrie",
-      img: "./public/shu.jpg"
+      img: "./shu.jpg"
     },
     {
       charName: "Rinne Amagi",
@@ -141,7 +141,7 @@ const char = [
       dateAvailable: "2/13/23 - 2/27/23",
       agency: "COSMIC PRODUCTION",
       units: "Crazy:B",
-      img: "./public/rinne.jpg"
+      img: "./rinne.jpg"
     },
     {
       charName: "Tsumugi Aoba",
@@ -149,7 +149,7 @@ const char = [
       dateAvailable: "2/27/23 - 3/13/23",
       agency: "NEW DIMENSION",
       units: "Switch",
-      img: "./public/tsumugi.jpg"
+      img: "./tsumugi.jpg"
     },
     {
       charName: "Leo Tsukinaga",
@@ -157,7 +157,7 @@ const char = [
       dateAvailable: "3/13/23 - 3/27/23",
       agency: "NEW DIMENSION",
       units: "Knights",
-      img: "./public/leo.jpg"
+      img: "./leo.jpg"
     },
     {
       charName: "Nazuna Nito",
@@ -165,7 +165,7 @@ const char = [
       dateAvailable: "3/37/23 - 4/10/23",
       agency: "Rhythm Link",
       units: "Ra*bits",
-      img: "./public/nazuna.jpg"
+      img: "./nazuna.jpg"
     },
     {
       charName: "Hiyori Tomoe",
@@ -173,7 +173,7 @@ const char = [
       dateAvailable: "4/10/23 - 4/24/23",
       agency: "COSMIC PRODUCTION",
       units: "Eden, Eve",
-      img: "./public/hiyori.jpg"
+      img: "./hiyori.jpg"
     },
     {
       charName: "Yuta Aoi",
@@ -181,7 +181,7 @@ const char = [
       dateAvailable: "4/24/23 - 5/8/23",
       agency: "COSMIC PRODUCTION",
       units: "2wink",
-      img: "./public/yuta.jpg"
+      img: "./yuta.jpg"
     },
     {
       charName: "Madara Mikejima",
@@ -189,7 +189,7 @@ const char = [
       dateAvailable: "5/8/23 - 5/22/23",
       agency: "NEW DIMENSION",
       units: "MaM, Double Face",
-      img: "./public/madara.jpg"
+      img: "./madara.jpg"
     },
     {
       charName: "Rei Sakuma",
@@ -197,7 +197,7 @@ const char = [
       dateAvailable: "5/22/23 - 6/5/23",
       agency: "Rhythm Link",
       units: "UNDEAD",
-      img: "./public/rei.jpg"
+      img: "./rei.jpg"
     },
     {
       charName: "Jun Sazanami",
@@ -205,7 +205,7 @@ const char = [
       dateAvailable: "6/5/23 - 6/19/23",
       agency: "COSMIC PRODUCTION",
       units: "Eden, Eve",
-      img: "./public/jun.jpg"
+      img: "./jun.jpg"
     },
     {
       charName: "Adonis Otogari",
@@ -213,7 +213,7 @@ const char = [
       dateAvailable: "6/19/23 - 7/3/23",
       agency: "Rhythm Link",
       units: "UNDEAD",
-      img: "./public/adonis.jpg"
+      img: "./adonis.jpg"
     },
     {
       charName: "Natsume Sakasaki",
@@ -221,7 +221,7 @@ const char = [
       dateAvailable: "7/3/23 - 7/17/23",
       agency: "NEW DIMENSION",
       units: "Switch",
-      img: "./public/natsume.jpg"
+      img: "./natsume.jpg"
     },
     {
       charName: "Mayoi Ayase",
@@ -229,7 +229,7 @@ const char = [
       dateAvailable: "7/19/23 - 7/31/23",
       agency: "STARMAKER PRODUCTION",
       units: "ALKALOID",
-      img: "./public/mayoi.jpg"
+      img: "./mayoi.jpg"
     },
     {
       charName: "Aira Shiratori",
@@ -237,7 +237,7 @@ const char = [
       dateAvailable: "7/31/23 - 8/14/23",
       agency: "STARMAKER PRODUCTION",
       units: "ALKALOID",
-      img: "./public/aira.jpg"
+      img: "./aira.jpg"
     },
     {
       charName: "Makoto Yuuki",
@@ -245,7 +245,7 @@ const char = [
       dateAvailable: "8/14/23 - 8/28/23",
       agency: "STARMAKER PRODUCTION",
       units: "Trickstar",
-      img: "./public/makoto.jpg"
+      img: "./makoto.jpg"
     },
     {
       charName: "Sora Harukawa",
@@ -253,7 +253,7 @@ const char = [
       dateAvailable: "8/28/23 - 9/11/23",
       agency: "NEW DIMENSION",
       units: "Switch",
-      img: "./public/sora.jpg"
+      img: "./sora.jpg"
     },
     {
       charName: "Chiaki Morisawa",
@@ -261,7 +261,7 @@ const char = [
       dateAvailable: "9/11/23 - 9/25/23",
       agency: "STARMAKER PRODUCTION",
       units: "RYUSEITAI",
-      img: "./public/chiaki.jpg"
+      img: "./chiaki.jpg"
     },
     {
       charName: "Hiiro Amagi",
@@ -269,7 +269,7 @@ const char = [
       dateAvailable: "9/25/23 - 10/9/23",
       agency: "STARMAKER PRODUCTION",
       units: "ALKALOID",
-      img: "./public/hiiro.jpg"
+      img: "./hiiro.jpg"
     },
     {
       charName: "Kohaku Oukawa",
@@ -277,7 +277,7 @@ const char = [
       dateAvailable: "10/9/23 - 10/23/23",
       agency: "COSMIC PRODUCTION, NEW DIMENSION",
       units: "Crazy:B, Double Face",
-      img: "./public/kohaku.jpg"
+      img: "./kohaku.jpg"
     },
     {
       charName: "Subaru Akehoshi",
@@ -285,7 +285,7 @@ const char = [
       dateAvailable: "10/23/23 - 11/6/23",
       agency: "STARMAKER PRODUCTION",
       units: "Trickstar",
-      img: "./public/subaru.jpg"
+      img: "./subaru.jpg"
     },
     {
       charName: "Tetora Nagumo",
@@ -293,7 +293,7 @@ const char = [
       dateAvailable: "11/6/23 - 11/20/23",
       agency: "STARMAKER PRODUCTION",
       units: "RYUSEITAI",
-      img: "./public/tetora.jpg"
+      img: "./tetora.jpg"
     },
     {
       charName: "Midori Takamine",
@@ -301,7 +301,7 @@ const char = [
       dateAvailable: "11/20/23 - 12/4/23",
       agency: "STARMAKER PRODUCTION",
       units: "RYUSEITAI",
-      img: "./public/midori.jpg"
+      img: "./midori.jpg"
     },
     {
       charName: "Kanata Shinkai",
@@ -309,7 +309,7 @@ const char = [
       dateAvailable: "12/18/23 - 1/1/24",
       agency: "STARMAKER PRODUCTION",
       units: "RYUSEITAI",
-      img: "./public/kanata.jpg"
+      img: "./kanata.jpg"
     },
     {
       charName: "Yuzuru Fushimi",
@@ -317,7 +317,7 @@ const char = [
       dateAvailable: "1/1/24 - 1/15/24",
       agency: "STARMAKER PRODUCTION",
       units: "fine",
-      img: "./public/yuzuru.jpg"
+      img: "./yuzuru.jpg"
     },
     {
       charName: "Niki Shiina",
@@ -325,7 +325,7 @@ const char = [
       dateAvailable: "1/29/24 - 2/12/24",
       agency: "COSMIC PRODUCTION",
       units: "Crazy:B",
-      img: "./public/niki.jpg"
+      img: "./niki.jpg"
     },
     {
       charName: "Hinata Aoi",
@@ -333,7 +333,7 @@ const char = [
       dateAvailable: "2/12/24 - 2/26/24",
       agency: "COSMIC PRODUCTION",
       units: "2wink",
-      img: "./public/hinata.jpg"
+      img: "./hinata.jpg"
     },
     {
       charName: "Hajime Shino",
@@ -341,7 +341,7 @@ const char = [
       dateAvailable: "2/26/24 - 3/11/24",
       agency: "Rhythm Link",
       units: "Ra*bits",
-      img: "./public/hajime.jpg"
+      img: "./hajime.jpg"
     },
     {
       charName: "Kuro Kiryu",
@@ -349,7 +349,7 @@ const char = [
       dateAvailable: "3/11/24 - 3/25/24",
       agency: "Rhythm Link",
       units: "AKATSUKI",
-      img: "./public/kuro.jpg"
+      img: "./kuro.jpg"
     },
     {
       charName: "Kaoru Hakaze",
@@ -357,7 +357,7 @@ const char = [
       dateAvailable: "3/25/24 - 4/8/24",
       agency: "Rhythm Link",
       units: "UNDEAD",
-      img: "./public/kaoru.jpg"
+      img: "./kaoru.jpg"
     },
     {
       charName: "Keito Hasumi",
@@ -365,7 +365,7 @@ const char = [
       dateAvailable: "4/8/24 - 4/22/24",
       agency: "Rhythm Link",
       units: "AKATSUKI",
-      img: "./public/keito.jpg"
+      img: "./keito.jpg"
     },
     {
       charName: "Ritsu Sakuma<",
@@ -373,7 +373,7 @@ const char = [
       dateAvailable: "4/22/24 - 5/6/24",
       agency: "Rhythm Link",
       units: "UNDEAD",
-      img: "./public/ritsu.jpg"
+      img: "./ritsu.jpg"
     },
     {
       charName: "Eichi Tenshouin",
@@ -381,7 +381,7 @@ const char = [
       dateAvailable: "5/6/24 - 5/20/24",
       agency: "STARMAKER PRODUCTION",
       units: "fine",
-      img: "./public/eichi.jpg"
+      img: "./eichi.jpg"
     },
     {
       charName: "Nagisa Ran",
@@ -389,7 +389,7 @@ const char = [
       dateAvailable: "5/20/24 - 6/3/24",
       agency: "COSMIC PRODUCTION",
       units: "Eden, Adam",
-      img: "./public/nagisa.jpg"
+      img: "./nagisa.jpg"
     }
   ];
 
