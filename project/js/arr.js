@@ -368,8 +368,8 @@ const char = [
       img: "./keito.jpg"
     },
     {
-      charName: "Ritsu Sakuma<",
-      cardName: "[He Who Awakens From His Slumber] Ritsu Sakuma<",
+      charName: "Ritsu Sakuma",
+      cardName: "[He Who Awakens From His Slumber] Ritsu Sakuma",
       dateAvailable: "4/22/24 - 5/6/24",
       agency: "Rhythm Link",
       units: "UNDEAD",
@@ -392,5 +392,9 @@ const char = [
       img: "./nagisa.jpg"
     }
   ];
+
+
+  console.log(char.forEach((el) => el.cardName.replace((el.charName), "")))
+
 
   export {char};
