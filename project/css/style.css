@@ -9,6 +9,12 @@ body {
   margin: 5rem;
 }
 
+.agencyFilter {
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+}
+
 .gallery {
   font-size: 25px;
   padding: 75px;
@@ -48,4 +54,19 @@ h1, h2, h3, p {
   text-align: center;
   font-size: 2rem;
   font-weight: lighter;
+}
+
+.agencyFilter {
+  align-items: center;
+}
+
+button:not(#reset){
+  min-width: 18vw;
+  width: 18vw auto;
+  height: 2.3rem;
+  font-size: 0.9rem;
+}
+
+#reset {
+  background-color: rgb(148, 144, 204);
 }

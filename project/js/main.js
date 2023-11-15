@@ -13,4 +13,3 @@ function newCard(el) {
 }
 
 char.forEach(el => newCard(el));
-
