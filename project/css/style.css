@@ -1,5 +1,9 @@
+:root {
+  --darkbcc: rgb(59, 54, 128)
+}
+
 body {
-  background-color: rgb(59, 54, 128);
+  background-color: var(--darkbcc);
 }
 
 .container {
