@@ -65,10 +65,11 @@ h1, h2, h3, p {
 }
 
 button:not(#reset){
-  min-width: 18vw;
-  width: 18vw auto;
+  width: 18vw;
+  min-width: 120px;
   height: 2.3rem;
   font-size: 0.9rem;
+  margin: auto;
 }
 
 #reset {
