@@ -393,8 +393,4 @@ const char = [
     }
   ];
 
-
-  console.log(char.forEach((el) => el.cardName.replace((el.charName), "")))
-
-
   export {char};
