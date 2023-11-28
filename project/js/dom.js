@@ -1,5 +1,3 @@
-import {char} from "./arr.js"
-
 const DOMSelectors = {
   reset: document.getElementById("reset"),
   theme: document.getElementById("changeTheme"),
@@ -7,7 +5,9 @@ const DOMSelectors = {
   cospro: document.getElementById("cospro"),
   rhythlin: document.getElementById("rhythlin"),
   newdi: document.getElementById("newdi"),
-  card: document.querySelectorAll(".gallery")
+  card: document.querySelectorAll(".gallery"),
+  unitSelect: document.getElementById("unitSelect"),
+  theme: document.getElementById("changeTheme"),
 }
 
 export {DOMSelectors}

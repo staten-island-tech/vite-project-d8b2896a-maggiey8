@@ -1,9 +1,35 @@
 :root {
-  --darkbcc: rgb(59, 54, 128)
+/*purple mode*/
+  --purple: rgb(59, 54, 128);
+  --indigo: rgb(18, 19, 83);
+  --white: rgb(255, 255, 255);
+  --light_purple: rgb(213, 198, 247);
+
+/*green mode*/
+  --pale_yellow: rgb(238, 232, 184);
+  --green: rgb(172, 189, 113);
+  --dark_green: rgb(7, 99, 15);
+  --green1: rgb(123, 141, 82);
+
+
+}
+
+.purple {
+  --primary: var(--purple);
+  --secondary: var(--indigo);
+  --fontColor: var(--white);
+  --accent: var(--light_purple);
+}
+
+.green {
+  --primary: var(--pale_yellow);
+  --secondary: var(--green);
+  --fontColor: var(--dark_green);
+  --accent: var(--green1)
 }
 
 body {
-  background-color: var(--darkbcc);
+  background-color: var(--primary);
 }
 
 .container {
@@ -21,12 +47,11 @@ body {
 }
 
 .gallery {
-  font-size: 25px;
   padding: 75px;
-  background-color: rgb(18, 19, 83);
+  background-color: var(--secondary);
   margin-top: 1.4rem;
   border-radius: 5%;
-  color: rgb(255, 255, 255);
+  color: var(--fontColor);
   max-width: 15vw;
   max-height: 75vh;
   align-items: center;
@@ -45,6 +70,7 @@ img {
   .gallery {
       width: 40%;
       height: 60%;
+      min-height: 600px;
   }
 }
 
@@ -55,29 +81,49 @@ img {
   }
 }
 
-h1, h2, h3, p {
+h1 {
   text-align: center;
-  font-size: 2rem;
+  color: var(--accent);
+  font-size: 2.6rem;
+}
+
+h2, h3, p {
+  text-align: center;
+  font-size: 200%;
   font-weight: lighter;
 }
+
 
 button:not(#reset, #changeTheme){
   width: 18vw;
   min-width: 120px;
-  height: 2.3rem;
-  font-size: 0.9rem;
+  height: 2.6rem;
+  font-size: 16px;
   margin: auto;
 }
 
 #reset, #changeTheme {
-  background-color: rgb(148, 144, 204);
+  background-color: var(--accent);
   width: 15vw;
-  height: 30px;
+  height: 40px;
+  margin-right: 10vw;
+  font-size: 16px;
 }
 
 .unitFilter {
   margin-top: 25px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
+}
+
+label {
+  color: var(--fontColor);
+  font-size: 25px;
+  margin-left: 10vw;
+  margin-right: 20px;
+}
+
+select {
+  margin-right: 10vw;
 }

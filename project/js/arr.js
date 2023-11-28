@@ -35,7 +35,7 @@ const char = [
       charName: "Izumi Sena",
       cardName: "[Fairy of Morning Mist] Izumi Sena",
       dateAvailable: "8/15/22 - 8/29/22",
-      agency: "Rhythm Link",
+      agency: "NEW DIMENSION",
       units: "Knights",
       img: "./izumi.jpg"
     },
@@ -371,8 +371,8 @@ const char = [
       charName: "Ritsu Sakuma",
       cardName: "[He Who Awakens From His Slumber] Ritsu Sakuma",
       dateAvailable: "4/22/24 - 5/6/24",
-      agency: "Rhythm Link",
-      units: "UNDEAD",
+      agency: "NEW DIMENSION",
+      units: "Knights",
       img: "./ritsu.jpg"
     },
     {

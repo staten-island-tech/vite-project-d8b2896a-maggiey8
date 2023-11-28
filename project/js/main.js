@@ -16,7 +16,8 @@ function newCard(arr) {
 }
 
 function clearCards() {
-  document.querySelectorAll(".gallery").remove
+  const orig = document.querySelector(".container")
+  orig.innerHTML = ""
 }
 
 newCard(char)
@@ -24,34 +25,65 @@ newCard(char)
 function Ag_filter(agency) {
   clearCards()
   const arr = char.filter(el => el.agency.includes(agency))
-  console.log(arr)
+  //console.log(arr)
   newCard(arr)
 }
 
 DOMSelectors.starpro.addEventListener("click", function(event) {
   event.preventDefault()
   Ag_filter("STARMAKER PRODUCTION");
-
+  unitSelect.value = ""
 }
 )
 
 DOMSelectors.cospro.addEventListener("click", function(event) {
   event.preventDefault()
-  clearfields()
   Ag_filter("COSMIC PRODUCTION");
+  unitSelect.value = ""
 }
 )
 
 DOMSelectors.rhythlin.addEventListener("click", function(event) {
   event.preventDefault()
-  clearfields()
   Ag_filter("Rhythm Link");
+  unitSelect.value = ""
 }
 )
 
 DOMSelectors.newdi.addEventListener("click", function(event) {
   event.preventDefault()
-  clearfields()
   Ag_filter("NEW DIMENSION");
+  unitSelect.value = ""
 }
 )
+
+DOMSelectors.reset.addEventListener("click", function(event) {
+  event.preventDefault()
+  clearCards()
+  newCard(char)
+  unitSelect.value = ""
+})
+
+
+function Un_filter(unit) {
+  clearCards()
+  const arr = char.filter(el => el.units.includes(unit))
+  //console.log(arr)
+  newCard(arr)
+}
+
+DOMSelectors.unitSelect.addEventListener("change", function(event) {
+  event.preventDefault()
+  Un_filter(unitSelect.value)
+})
+
+DOMSelectors.theme.addEventListener("click", function() {
+  if (document.body.classList.contains("purple")) {
+    document.body.classList.add("green")
+    document.body.classList.remove("purple")
+  }
+  else {
+    document.body.classList.add("purple")
+    document.body.classList.remove("green")
+  } 
+})
