@@ -30,6 +30,7 @@
 
 body {
   background-color: var(--primary);
+  font-family:"Lilita One";
 }
 
 .container {
@@ -47,9 +48,9 @@ body {
 }
 
 .gallery {
-  padding: 75px;
+  padding: 40px;
   background-color: var(--secondary);
-  margin-top: 1.4rem;
+  margin: 1rem 0.5rem;
   border-radius: 5%;
   color: var(--fontColor);
   max-width: 15vw;
@@ -84,12 +85,12 @@ img {
 h1 {
   text-align: center;
   color: var(--accent);
-  font-size: 2.6rem;
+  font-size: 2.8rem;
 }
 
 h2, h3, p {
   text-align: center;
-  font-size: 200%;
+  font-size: 1.8rem;
   font-weight: lighter;
 }
 
@@ -97,9 +98,10 @@ h2, h3, p {
 button:not(#reset, #changeTheme){
   width: 18vw;
   min-width: 120px;
-  height: 2.6rem;
-  font-size: 16px;
+  height: 3rem;
+  font-size: 18px;
   margin: auto;
+  font-family: inherit;
 }
 
 #reset, #changeTheme {
@@ -107,7 +109,8 @@ button:not(#reset, #changeTheme){
   width: 15vw;
   height: 40px;
   margin-right: 10vw;
-  font-size: 16px;
+  font-size: 18px;
+  font-family: inherit;
 }
 
 .unitFilter {
@@ -126,4 +129,7 @@ label {
 
 select {
   margin-right: 10vw;
+  font-family: inherit;
+  padding: 5px;
+  font-size: 14px;
 }

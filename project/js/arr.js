@@ -1,7 +1,7 @@
 const char = [
     {
       charName: "Mika Kagehira",
-      cardName: "[In the Shadow] Mika Kagehira",
+      cardName: "[In the Shadow]",
       dateAvailable: "6/18/22 - 7/2/22",
       agency: "COSMIC PRODUCTION",
       units: "Valkyrie",
@@ -9,7 +9,7 @@ const char = [
     },
     {
       charName: "Tatsumi Kazehaya",
-      cardName: "[Silent Prayer] Tatsumi Kazehaya",
+      cardName: "[Silent Prayer]",
       dateAvailable: "7/2/22 - 7/17/22",
       agency: "STARMAKER PRODUCTION",
       units: "ALKALOID",
@@ -17,7 +17,7 @@ const char = [
     },
     {
       charName: "Ibara Saegusa",
-      cardName: "[Disguised Commander] Ibara Saegusa",
+      cardName: "[Disguised Commander]",
       dateAvailable: "7/17/22 - 8/1/22",
       agency: "COSMIC PRODUCTION",
       units: "Eden, Adam",
@@ -25,7 +25,7 @@ const char = [
     },
     {
       charName: "Koga Ogami",
-      cardName: "[Glittering Rock Wolf] Koga Ogami",
+      cardName: "[Glittering Rock Wolf]",
       dateAvailable: "8/1/22 - 8/15/22",
       agency: "Rhythm Link",
       units: "UNDEAD",
@@ -33,7 +33,7 @@ const char = [
     },
     {
       charName: "Izumi Sena",
-      cardName: "[Fairy of Morning Mist] Izumi Sena",
+      cardName: "[Fairy of Morning Mist]",
       dateAvailable: "8/15/22 - 8/29/22",
       agency: "NEW DIMENSION",
       units: "Knights",
@@ -41,7 +41,7 @@ const char = [
     },
     {
       charName: "Tori Himemiya",
-      cardName: "[Aspiring Sweet Prince] Tori Himemiya",
+      cardName: "[Aspiring Sweet Prince]",
       dateAvailable: "8/29/22 - 9/12/22",
       agency: "STARMAKER PRODUCTION",
       units: "fine",
@@ -49,7 +49,7 @@ const char = [
     },
     {
       charName: "Mao Isara",
-      cardName: "[Everyday but Special] Mao Isara",
+      cardName: "[Everyday but Special]",
       dateAvailable: "9/12/22 - 9/26/22",
       agency: "STARMAKER PRODUCTION",
       units: "Trickstar",
@@ -57,7 +57,7 @@ const char = [
     },
     {
       charName: "Hokuto Hidaka",
-      cardName: "[The Only Goal] Hokuto Hidaka",
+      cardName: "[The Only Goal]",
       dateAvailable: "9/26/22 - 10/10/22",
       agency: "STARMAKER PRODUCTION",
       units: "Trickstar",
@@ -65,7 +65,7 @@ const char = [
     },
     {
       charName: "Mitsuru Tenma",
-      cardName: "[The Fastest Light] Mitsuru Tenma",
+      cardName: "[The Fastest Light]",
       dateAvailable: "10/10/22 - 10/24/22",
       agency: "Rhythm Link",
       units: "Ra*bits",
@@ -73,7 +73,7 @@ const char = [
     },
     {
       charName: "HiMERU",
-      cardName: "[Hidden in the Heart] HiMERU",
+      cardName: "[Hidden in the Heart]",
       dateAvailable: "10/24/22 - 11/6/22",
       agency: "COSMIC PRODUCTION",
       units: "Crazy:B",
@@ -81,7 +81,7 @@ const char = [
     },
     {
       charName: "Souma Kanzaki",
-      cardName: "[The Oath of Gods] Souma Kanzaki",
+      cardName: "[The Oath of Gods]",
       dateAvailable: "11/6/22 - 11/21/22",
       agency: "Rhythm Link",
       units: "AKATSUKI",
@@ -89,7 +89,7 @@ const char = [
     },
     {
       charName: "Shinobu Sengoku",
-      cardName: "[Light Born in Darkness] Shinobu Sengoku",
+      cardName: "[Light Born in Darkness]",
       dateAvailable: "11/21/22 - 12/5/22",
       agency: "STARMAKER PRODUCTION",
       units: "RYUSEITAI",
@@ -97,7 +97,7 @@ const char = [
     },
     {
       charName: "Arashi Narukami",
-      cardName: "[My Best Self] Arashi Narukami",
+      cardName: "[My Best Self]",
       dateAvailable: "12/5/22 - 12/19/22",
       agency: "NEW DIMENSION",
       units: "Knights",
@@ -105,7 +105,7 @@ const char = [
     },
     {
       charName: "Tomoya Mashiro",
-      cardName: "[Epitome of Paradigm] Tomoya Mashiro",
+      cardName: "[Epitome of Paradigm]",
       dateAvailable: "12/19/22 - 1/2/23",
       agency: "Rhythm Link",
       units: "Ra*bits",
@@ -113,7 +113,7 @@ const char = [
     },
     {
       charName: "Tsukasa Suou",
-      cardName: "[The Road to King] Tsukasa Suou",
+      cardName: "[The Road to King]",
       dateAvailable: "1/2/23 - 1/16/23",
       agency: "NEW DIMENSION",
       units: "Knights",
@@ -121,7 +121,7 @@ const char = [
     },
     {
       charName: "Wataru Hibiki",
-      cardName: "[Reflection in Your Eyes] Wataru Hibiki",
+      cardName: "[Reflection in Your Eyes]",
       dateAvailable: "1/16/23 - 1/30/23",
       agency: "STARMAKER PRODUCTION",
       units: "fine",
@@ -129,7 +129,7 @@ const char = [
     },
     {
       charName: "Shu Itsuki",
-      cardName: "[Unyielding Perfection] Shu Itsuki",
+      cardName: "[Unyielding Perfection]",
       dateAvailable: "1/30/23 - 2/13/23",
       agency: "COSMIC PRODUCTION",
       units: "Valkyrie",
@@ -137,7 +137,7 @@ const char = [
     },
     {
       charName: "Rinne Amagi",
-      cardName: "[The Value of Outsiders] Rinne Amagi",
+      cardName: "[The Value of Outsiders]",
       dateAvailable: "2/13/23 - 2/27/23",
       agency: "COSMIC PRODUCTION",
       units: "Crazy:B",
@@ -145,7 +145,7 @@ const char = [
     },
     {
       charName: "Tsumugi Aoba",
-      cardName: "[Wings of Magic] Tsumugi Aoba",
+      cardName: "[Wings of Magic]",
       dateAvailable: "2/27/23 - 3/13/23",
       agency: "NEW DIMENSION",
       units: "Switch",
@@ -153,7 +153,7 @@ const char = [
     },
     {
       charName: "Leo Tsukinaga",
-      cardName: "[Vibrant Colors] Leo Tsukinaga",
+      cardName: "[Vibrant Colors]",
       dateAvailable: "3/13/23 - 3/27/23",
       agency: "NEW DIMENSION",
       units: "Knights",
@@ -161,7 +161,7 @@ const char = [
     },
     {
       charName: "Nazuna Nito",
-      cardName: "[Guide to the Future] Nazuna Nito",
+      cardName: "[Guide to the Future]",
       dateAvailable: "3/37/23 - 4/10/23",
       agency: "Rhythm Link",
       units: "Ra*bits",
@@ -169,7 +169,7 @@ const char = [
     },
     {
       charName: "Hiyori Tomoe",
-      cardName: "[Shine Everyday] Hiyori Tomoe",
+      cardName: "[Shine Everyday]",
       dateAvailable: "4/10/23 - 4/24/23",
       agency: "COSMIC PRODUCTION",
       units: "Eden, Eve",
@@ -177,7 +177,7 @@ const char = [
     },
     {
       charName: "Yuta Aoi",
-      cardName: "[Individuality & Possibility] Yuta Aoi",
+      cardName: "[Individuality & Possibility]",
       dateAvailable: "4/24/23 - 5/8/23",
       agency: "COSMIC PRODUCTION",
       units: "2wink",
@@ -185,7 +185,7 @@ const char = [
     },
     {
       charName: "Madara Mikejima",
-      cardName: "[Rapturous Festival] Madara Mikejima",
+      cardName: "[Rapturous Festival]",
       dateAvailable: "5/8/23 - 5/22/23",
       agency: "NEW DIMENSION",
       units: "MaM, Double Face",
@@ -193,7 +193,7 @@ const char = [
     },
     {
       charName: "Rei Sakuma",
-      cardName: "[Guide of Chaos & Love] Rei Sakuma",
+      cardName: "[Guide of Chaos & Love]",
       dateAvailable: "5/22/23 - 6/5/23",
       agency: "Rhythm Link",
       units: "UNDEAD",
@@ -201,7 +201,7 @@ const char = [
     },
     {
       charName: "Jun Sazanami",
-      cardName: "[The Rebel Path] Jun Sazanami",
+      cardName: "[The Rebel Path]",
       dateAvailable: "6/5/23 - 6/19/23",
       agency: "COSMIC PRODUCTION",
       units: "Eden, Eve",
@@ -209,7 +209,7 @@ const char = [
     },
     {
       charName: "Adonis Otogari",
-      cardName: "[Clad in Homeland Wind] Adonis Otogari",
+      cardName: "[Clad in Homeland Wind]",
       dateAvailable: "6/19/23 - 7/3/23",
       agency: "Rhythm Link",
       units: "UNDEAD",
@@ -217,7 +217,7 @@ const char = [
     },
     {
       charName: "Natsume Sakasaki",
-      cardName: "[Wish-Granting Guide] Natsume Sakasaki",
+      cardName: "[Wish-Granting Guide]",
       dateAvailable: "7/3/23 - 7/17/23",
       agency: "NEW DIMENSION",
       units: "Switch",
@@ -225,7 +225,7 @@ const char = [
     },
     {
       charName: "Mayoi Ayase",
-      cardName: "[Timid Heart in the Dark] Mayoi Ayase",
+      cardName: "[Timid Heart in the Dark]",
       dateAvailable: "7/19/23 - 7/31/23",
       agency: "STARMAKER PRODUCTION",
       units: "ALKALOID",
@@ -233,7 +233,7 @@ const char = [
     },
     {
       charName: "Aira Shiratori",
-      cardName: "[Budding Loveliness] Aira Shiratori",
+      cardName: "[Budding Loveliness]",
       dateAvailable: "7/31/23 - 8/14/23",
       agency: "STARMAKER PRODUCTION",
       units: "ALKALOID",
@@ -241,7 +241,7 @@ const char = [
     },
     {
       charName: "Makoto Yuuki",
-      cardName: "[Boundless Versatility] Makoto Yuuki",
+      cardName: "[Boundless Versatility]",
       dateAvailable: "8/14/23 - 8/28/23",
       agency: "STARMAKER PRODUCTION",
       units: "Trickstar",
@@ -249,7 +249,7 @@ const char = [
     },
     {
       charName: "Sora Harukawa",
-      cardName: "[Radiant Hues of Me] Sora Harukawa",
+      cardName: "[Radiant Hues of Me]",
       dateAvailable: "8/28/23 - 9/11/23",
       agency: "NEW DIMENSION",
       units: "Switch",
@@ -257,7 +257,7 @@ const char = [
     },
     {
       charName: "Chiaki Morisawa",
-      cardName: "[The Beam of Hope] Chiaki Morisawa",
+      cardName: "[The Beam of Hope]",
       dateAvailable: "9/11/23 - 9/25/23",
       agency: "STARMAKER PRODUCTION",
       units: "RYUSEITAI",
@@ -265,7 +265,7 @@ const char = [
     },
     {
       charName: "Hiiro Amagi",
-      cardName: "[Intersecting Paths] Hiiro Amagi",
+      cardName: "[Intersecting Paths]",
       dateAvailable: "9/25/23 - 10/9/23",
       agency: "STARMAKER PRODUCTION",
       units: "ALKALOID",
@@ -273,7 +273,7 @@ const char = [
     },
     {
       charName: "Kohaku Oukawa",
-      cardName: "[Budding Amber Blossoms] Kohaku Oukawa",
+      cardName: "[Budding Amber Blossoms]",
       dateAvailable: "10/9/23 - 10/23/23",
       agency: "COSMIC PRODUCTION, NEW DIMENSION",
       units: "Crazy:B, Double Face",
@@ -281,7 +281,7 @@ const char = [
     },
     {
       charName: "Subaru Akehoshi",
-      cardName: "[Shining For You] Subaru Akehoshi",
+      cardName: "[Shining For You]",
       dateAvailable: "10/23/23 - 11/6/23",
       agency: "STARMAKER PRODUCTION",
       units: "Trickstar",
@@ -289,7 +289,7 @@ const char = [
     },
     {
       charName: "Tetora Nagumo",
-      cardName: "[Growing Young Tiger] Tetora Nagumo",
+      cardName: "[Growing Young Tiger]",
       dateAvailable: "11/6/23 - 11/20/23",
       agency: "STARMAKER PRODUCTION",
       units: "RYUSEITAI",
@@ -297,7 +297,7 @@ const char = [
     },
     {
       charName: "Midori Takamine",
-      cardName: "[Comfortable Staying Just As I Am] Midori Takamine",
+      cardName: "[Comfortable Staying Just As I Am]",
       dateAvailable: "11/20/23 - 12/4/23",
       agency: "STARMAKER PRODUCTION",
       units: "RYUSEITAI",
@@ -305,7 +305,7 @@ const char = [
     },
     {
       charName: "Kanata Shinkai",
-      cardName: "[Intertwined Sea] Kanata Shinkai",
+      cardName: "[Intertwined Sea]",
       dateAvailable: "12/18/23 - 1/1/24",
       agency: "STARMAKER PRODUCTION",
       units: "RYUSEITAI",
@@ -313,7 +313,7 @@ const char = [
     },
     {
       charName: "Yuzuru Fushimi",
-      cardName: "[Devoted Valet] Yuzuru Fushimi",
+      cardName: "[Devoted Valet]",
       dateAvailable: "1/1/24 - 1/15/24",
       agency: "STARMAKER PRODUCTION",
       units: "fine",
@@ -321,7 +321,7 @@ const char = [
     },
     {
       charName: "Niki Shiina",
-      cardName: "[Melody Delivered To Your Heart] Niki Shiina",
+      cardName: "[Melody Delivered To Your Heart]",
       dateAvailable: "1/29/24 - 2/12/24",
       agency: "COSMIC PRODUCTION",
       units: "Crazy:B",
@@ -329,7 +329,7 @@ const char = [
     },
     {
       charName: "Hinata Aoi",
-      cardName: "[Colors Mixed Together] Hinata Aoi",
+      cardName: "[Colors Mixed Together]",
       dateAvailable: "2/12/24 - 2/26/24",
       agency: "COSMIC PRODUCTION",
       units: "2wink",
@@ -337,7 +337,7 @@ const char = [
     },
     {
       charName: "Hajime Shino",
-      cardName: "[The Best Hospitality] Hajime Shino",
+      cardName: "[The Best Hospitality]",
       dateAvailable: "2/26/24 - 3/11/24",
       agency: "Rhythm Link",
       units: "Ra*bits",
@@ -345,7 +345,7 @@ const char = [
     },
     {
       charName: "Kuro Kiryu",
-      cardName: "[Tougly Woven Threads of Youth] Kuro Kiryu",
+      cardName: "[Tougly Woven Threads of Youth]",
       dateAvailable: "3/11/24 - 3/25/24",
       agency: "Rhythm Link",
       units: "AKATSUKI",
@@ -353,7 +353,7 @@ const char = [
     },
     {
       charName: "Kaoru Hakaze",
-      cardName: "[Summer Breeze that Affirms Expectations] Kaoru Hakaze",
+      cardName: "[Summer Breeze that Affirms Expectations]",
       dateAvailable: "3/25/24 - 4/8/24",
       agency: "Rhythm Link",
       units: "UNDEAD",
@@ -361,7 +361,7 @@ const char = [
     },
     {
       charName: "Keito Hasumi",
-      cardName: "[Untainted Flower of the Heart] Keito Hasumi",
+      cardName: "[Untainted Flower of the Heart]",
       dateAvailable: "4/8/24 - 4/22/24",
       agency: "Rhythm Link",
       units: "AKATSUKI",
@@ -369,7 +369,7 @@ const char = [
     },
     {
       charName: "Ritsu Sakuma",
-      cardName: "[He Who Awakens From His Slumber] Ritsu Sakuma",
+      cardName: "[He Who Awakens From His Slumber]",
       dateAvailable: "4/22/24 - 5/6/24",
       agency: "NEW DIMENSION",
       units: "Knights",
@@ -377,7 +377,7 @@ const char = [
     },
     {
       charName: "Eichi Tenshouin",
-      cardName: "[The Burning Star of Hope] Eichi Tenshouin",
+      cardName: "[The Burning Star of Hope]",
       dateAvailable: "5/6/24 - 5/20/24",
       agency: "STARMAKER PRODUCTION",
       units: "fine",
@@ -385,7 +385,7 @@ const char = [
     },
     {
       charName: "Nagisa Ran",
-      cardName: "[The One Who Transends Time] Nagisa Ran",
+      cardName: "[The One Who Transends Time]",
       dateAvailable: "5/20/24 - 6/3/24",
       agency: "COSMIC PRODUCTION",
       units: "Eden, Adam",
