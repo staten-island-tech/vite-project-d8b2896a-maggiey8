@@ -22,14 +22,14 @@ function clearCards() {
 
 newCard(char)
 
-function Ag_filter(agency) {
+/* function Ag_filter(agency) {
   clearCards()
   const arr = char.filter(el => el.agency.includes(agency))
   //console.log(arr)
   newCard(arr)
 }
 
-DOMSelectors.starpro.addEventListener("click", function(event) {
+ DOMSelectors.starpro.addEventListener("click", function(event) {
   event.preventDefault()
   Ag_filter("STARMAKER PRODUCTION");
   unitSelect.value = ""
@@ -56,6 +56,14 @@ DOMSelectors.newdi.addEventListener("click", function(event) {
   unitSelect.value = ""
 }
 )
+ */
+let buttons = document.querySelectorAll(".button")
+buttons.forEach((button) => button.addEventListener("click", function() {
+  let agency = button.textContent
+  let arr = char.filter((el) => el.agency.includes(agency))
+  clearCards()
+  newCard(arr)
+}))
 
 DOMSelectors.reset.addEventListener("click", function(event) {
   event.preventDefault()
