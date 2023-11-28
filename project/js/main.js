@@ -22,6 +22,7 @@ function clearCards() {
 
 newCard(char)
 
+//old 
 /* function Ag_filter(agency) {
   clearCards()
   const arr = char.filter(el => el.agency.includes(agency))
@@ -57,6 +58,8 @@ DOMSelectors.newdi.addEventListener("click", function(event) {
 }
 )
  */
+
+//OPTIMIZED !!!!!
 let buttons = document.querySelectorAll(".button")
 buttons.forEach((button) => button.addEventListener("click", function() {
   let agency = button.textContent
@@ -73,17 +76,11 @@ DOMSelectors.reset.addEventListener("click", function(event) {
   unitSelect.value = ""
 })
 
-
-function Un_filter(unit) {
-  clearCards()
-  const arr = char.filter(el => el.units.includes(unit))
-  //console.log(arr)
-  newCard(arr)
-}
-
 DOMSelectors.unitSelect.addEventListener("change", function(event) {
   event.preventDefault()
-  Un_filter(unitSelect.value)
+  clearCards()
+  let arr = char.filter(el => el.units.includes(unitSelect.value))
+  newCard(arr)
 })
 
 DOMSelectors.theme.addEventListener("click", function() {
