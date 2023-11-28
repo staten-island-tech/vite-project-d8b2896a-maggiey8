@@ -63,6 +63,7 @@ buttons.forEach((button) => button.addEventListener("click", function() {
   let arr = char.filter((el) => el.agency.includes(agency))
   clearCards()
   newCard(arr)
+  unitSelect.value = ""
 }))
 
 DOMSelectors.reset.addEventListener("click", function(event) {
