@@ -2,7 +2,7 @@
 /*purple mode*/
   --purple: rgb(59, 54, 128);
   --indigo: rgb(18, 19, 83);
-  --white: rgb(255, 255, 255);
+  --white: rgb(252, 241, 255);
   --light_purple: rgb(213, 198, 247);
 
 /*green mode*/
@@ -51,7 +51,7 @@ body {
   padding: 40px;
   background-color: var(--secondary);
   margin: 1rem 0.5rem;
-  border-radius: 5%;
+  border-radius: 1%;
   color: var(--fontColor);
   max-width: 15vw;
   max-height: 75vh;
